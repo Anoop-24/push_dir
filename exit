@@ -1,0 +1,29 @@
+[1mdiff --git a/read.md b/read.md[m
+[1mindex bd98b7a..e94fd27 100644[m
+[1m--- a/read.md[m
+[1m+++ b/read.md[m
+[36m@@ -1,20 +1,2 @@[m
+[31m-<div>[m
+[31m-Work Flow of Git <br>[m
+[31m-    -> Create Repo on GitHub<br>[m
+[31m-    -> Clone it in local system<br>[m
+[31m-    -> Make change<br>[m
+[31m-    -> Add it<br>[m
+[31m-    -> Commit it<br>[m
+[31m-    -> Commit it<br>[m
+[31m-    -> push on GitHUB<br>[m
+[31m-<div>[m
+[31m-<br>[m
+[31m-<div>[m
+[31m-Learning Branch <br>[m
+[31m-    -> git branch - Know on which branch we are <br>[m
+[31m-    -> git branch -M brach_name - to rename branch <br>[m
+[31m-    -> git checkout branch_name - to navigate<br>[m
+[31m-    -> git checkout -b new_branch_name - create new branch<br>[m
+[31m-    -> git branch -d branch_name - to delete branch <br>[m
+[31m-[m
+[31m-</div>[m
+\ No newline at end of file[m
+[32m+[m[32m<Div>This is new branch </Div>[m
+[32m+[m[32m<Div>Mearging new branch with main one </Div>[m
+\ No newline at end of file[m
