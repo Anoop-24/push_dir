@@ -8,6 +8,7 @@ Work Flow of Git <br>
     -> Commit it<br>
     -> push on GitHUB<br>
 <div>
+<br>
 <div>
 Learning Branch
     -> git branch - Know on which branch we are <br>
