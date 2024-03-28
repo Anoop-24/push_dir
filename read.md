@@ -10,7 +10,7 @@ Work Flow of Git <br>
 <div>
 <br>
 <div>
-Learning Branch
+Learning Branch <br>
     -> git branch - Know on which branch we are <br>
     -> git branch -M brach_name - to rename branch <br>
     -> git checkout branch_name - to navigate<br>
